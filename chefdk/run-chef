@@ -1,0 +1,1 @@
+docker run -it -v /var/run/docker.sock:/var/run/docker.sock -v /Users/aaronkalair/cookbooks:/cookbooks  -v /Users/aaronkalair/.gitconfig:/home/aaronkalair/.gitconfig -v /Users/aaronkalair/.vimrc:/home/aaronkalair/.vimrc -v /Users/aaronkalair/.vim:/home/aaronkalair/.vim chefdk
